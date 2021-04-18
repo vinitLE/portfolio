@@ -1,0 +1,28 @@
+body{
+    font-size: 16px;
+    color:#fff;
+    background-color: white;
+    font-family: 'Oxygen', sans-serif;
+}
+
+#header-nav {
+    background-color: black;
+    border-radius: 0;
+    border: 0;
+    margin-top: 30px;
+}
+#logo-img{
+    background: url("https://cdn.pixabay.com/photo/2015/12/01/20/28/road-1072823__340.jpg") no-repeat;
+    background-color: cornsilk;
+    width: 50px;
+    height: 50px;
+    margin: 10px 15px 10px 0;
+    border-radius: 25px;
+}
+#nav-list{
+    margin-top: 10px;
+}
+#nav-list a{
+    color: cornflowerblue;
+    text-align: center;
+}
